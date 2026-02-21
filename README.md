@@ -1,1 +1,1 @@
-# Shoper-Full-Stack-E-Commerce-Platform-React-Node.js-MySQL-
+# Shoper-Full-Stack-E-Commerce-Web-Application
